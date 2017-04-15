@@ -1,0 +1,9 @@
+.DS_Store
+application/home/cache/
+application/admin/cache/
+application/home/core/*
+application/admin/core/*
+application/home/third_party/*
+application/admin/third_party/*
+application/home/.htaccess
+application/admin/.htaccess
